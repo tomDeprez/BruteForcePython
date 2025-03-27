@@ -106,4 +106,4 @@ if found:
     print(f"\nMot de passe trouvé : {found_password}")
 else:
     print("\nAucun mot de passe trouvé dans la liste.")
-print(f"Temps total : {end_time - start_time:.2f} secondes")
+print(f"Temps total : {end_time - start_time:.2f} secondess")
